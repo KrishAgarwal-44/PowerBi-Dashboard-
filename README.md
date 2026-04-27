@@ -32,7 +32,8 @@ The **Vehicle Sales Dashboard** provides a comprehensive view of vehicle sales d
 PowerBi-Dashboard-/
 │
 ├── Vehicle sales Dashboard.pbix   # Main Power BI dashboard file
-└── README.md                       # Project documentation
+└── README.md                      # Project documentation
+└── dashboard-preview.png          # Project image
 ```
 
 ---
